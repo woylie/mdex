@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.13.1](https://github.com/leandrocp/mdex/compare/v0.13.0...v0.13.1) (2026-06-09)
+
+
+### Documentation
+
+* remove unused install block from syntax highlight ([2e44278](https://github.com/leandrocp/mdex/commit/2e442787525ed640d6a79e7ef8bc8e3852208273))
+
 ## [0.13.0](https://github.com/leandrocp/mdex/compare/v0.12.5...v0.13.0) (2026-06-09)
 
 
